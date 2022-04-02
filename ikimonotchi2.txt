@@ -1,0 +1,5 @@
+sauver heure demarrage pour connaitre le temps d'eclosion = l'heure du premier repas et connaitre le niveau de fatigue
+sauver l'heure du dernier repas pour savoir quand on peut renourir et quand besoin de nourir et combien de temps après pour jouer
+sauver l'heure du dernier jeu pour savoir le niveau d'ennuie
+sauver l'heure de fin du dernier repos pour connaitre l'heure du suivant
+

@@ -1,0 +1,10 @@
+int boredom_decrement;
+  int hunger_decrement;
+  int boredom_theshold;
+  String sounds;
+  String name;
+  int hunger;
+  int boredom;
+
+stocker le temps passé depuis le dernier repas 
+stocker le temps passé depuis le dernier jeu
